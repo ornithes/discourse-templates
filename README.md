@@ -19,3 +19,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/dbGjYUZ.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/forum.webflow)
+
+## forums.pebble.com
+
+![Imgur](http://i.imgur.com/VTtO0mH.png)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/forums.pebble)
