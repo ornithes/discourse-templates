@@ -28,6 +28,6 @@ Discourse templates (WIP)
 
 ## forum.strats.com
 
-[file](https://github.com/pikshub/discourse-templates/tree/master/forum.strats)
-
 ![Imgur](http://i.imgur.com/fmK60YM.jpg)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/forum.strats)
