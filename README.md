@@ -31,3 +31,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/fmK60YM.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/forum.strats)
+
+## talk.jekyllrb.com
+
+![Imgur](http://i.imgur.com/U5GkWim.jpg)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/talk.jekyllrb)
