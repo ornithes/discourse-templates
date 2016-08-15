@@ -25,3 +25,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/VTtO0mH.png)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/forums.pebble)
+
+## forum.strats.com
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/forum.strats)
+
+![Imgur](http://i.imgur.com/fmK60YM.jpg)
