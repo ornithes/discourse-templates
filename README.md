@@ -37,3 +37,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/U5GkWim.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/talk.jekyllrb)
+
+## community.devs.com
+
+![Imgur](http://i.imgur.com/Dv7C7DJ.jpg)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/community.devs)
