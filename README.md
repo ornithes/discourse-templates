@@ -43,3 +43,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/Dv7C7DJ.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/community.devs)
+
+## forums.docker.com
+
+![Imgur](http://i.imgur.com/w8V2AfX.jpg)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/forums.docker)
