@@ -49,3 +49,9 @@ Discourse templates (WIP)
 ![Imgur](http://i.imgur.com/w8V2AfX.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/forums.docker)
+
+## forum.talksurf.com
+
+![Imgur](http://i.imgur.com/k3PUsCK.jpg)
+
+[file](https://github.com/pikshub/discourse-templates/tree/master/forum.talksurf)
