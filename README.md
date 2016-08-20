@@ -52,6 +52,6 @@ Discourse templates (WIP)
 
 ## forum.talksurf.com
 
-![Imgur](http://i.imgur.com/k3PUsCK.jpg)
+![Imgur](http://i.imgur.com/sifepgv.jpg)
 
 [file](https://github.com/pikshub/discourse-templates/tree/master/forum.talksurf)
